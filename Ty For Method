@@ -8,8 +8,7 @@ if not AutoExec:IsLoaded() then
 end
 
 -- Curious to who using my hub 💀 (only logs game place ID)
-getgenv().WebHookz = "https://discord.com/api/webhooks/1139637670851641454/hA_jFyhj0TPK6TRXA4h0_iBsDEP37Pk_s8g2wY2xlJHV8jW68Rd9rpyp9-DVBD5l1ltm"
-
+getgenv().WebHookz = "https://discord.com/api/webhooks/1165544593945788436/dxR6g1fwXqq9l91-_XpV-0bySmAjcZQSb_55-Z2wVGAN5PfQ7_hf0HD2sqTNQdGOymYe"
 task.spawn(function()
     local data = {
         ["content"] = "",
